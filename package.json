@@ -6,6 +6,7 @@
   "author": "lirasusejdev <lis.amaral@grupoboticario.com.br>",
   "license": "MIT",
   "dependencies": {
-    "@kiwicom/orbit-components": "^3.2.0"
+    "@kiwicom/orbit-components": "^3.2.0",
+    "styled-components": "^5.3.5"
   }
 }
