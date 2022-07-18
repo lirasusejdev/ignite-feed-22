@@ -16,7 +16,7 @@ export function App() {
         <Sidebar />
         <main>
           <Post author="Lis Amaral" content="lorem ipsum"></Post>
-          <Post author="Gabriel Martins" content="lorem ipsum"></Post>
+          <Post author="Victor Eduardo Oliveira" content="lorem ipsum"></Post>
         </main>
         <Breadcrumbs>
           <BreadcrumbsItem href="/item" text="Item 1" />
