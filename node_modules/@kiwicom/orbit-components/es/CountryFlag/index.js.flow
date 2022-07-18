@@ -1,0 +1,16 @@
+// @flow
+/*
+  DOCUMENTATION: https://orbit.kiwi/components/countryflag/
+*/
+import * as React from "react";
+
+import type { Globals } from "../common/common.js.flow";
+
+export type Props = {|
+  +code?: string,
+  +name?: string,
+  +size?: "small" | "medium",
+  ...Globals,
+|};
+
+declare export default React.ComponentType<Props>;
