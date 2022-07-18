@@ -1,0 +1,20 @@
+ol {
+  text-align: center;
+  border: solid 0.1rem;
+  border-radius: 0rem;
+  padding: auto;
+  cursor: pointer;
+}
+
+li {
+  display: inline;
+  padding: 10px 16px;
+  text-decoration: underline;
+  color: cadetblue;
+}
+
+.nav {
+  background-color: lime;
+  height: 20px;
+  width: 100%;
+}
